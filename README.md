@@ -3,7 +3,7 @@
 <h1 align="center">Website For Mobile App CrypApp</h1>
 
 # Info
-[Website](https://klimstepuchev.github.io/CrypApp-template/) layout for a mobile application on cryptocurrencies
+[Website](https://klimstepuchev.github.io/CrypApp/) layout for a mobile application on cryptocurrencies
 
 # Description
 * Adaptive
